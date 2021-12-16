@@ -236,10 +236,7 @@ width: 90% para definir a proporção ocupada pelo contêiner na tela.
 
         
     }
-    #idti{
-    width:40vw;
-        height: 130vh;
-    }
+
     .body{
         display: flex;
     flex-direction: column;
