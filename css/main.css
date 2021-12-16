@@ -12,8 +12,8 @@ h1 {
 #idti {
     font-family: 'Lobster', serif;
      background-color: blue;
-    height: 90vh;
-    width: 70vw;
+ height: 40vh;
+    width: 130vw;
     margin: auto;
     text-align: center;
     transition: all 1s ease 0s;
