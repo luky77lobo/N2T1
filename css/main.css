@@ -12,8 +12,8 @@ h1 {
 #idti {
     font-family: 'Lobster', serif;
      background-color: blue;
- height: 40vh;
-    width: 130vw;
+ height: auto;
+    width: auto;
     margin: auto;
     text-align: center;
     transition: all 1s ease 0s;
@@ -235,6 +235,10 @@ width: 90% para definir a proporção ocupada pelo contêiner na tela.
        
 
         
+    }
+    #idti{
+    width:40vw;
+        height: 130vh;
     }
     .body{
         display: flex;
