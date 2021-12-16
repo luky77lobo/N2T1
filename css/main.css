@@ -98,8 +98,8 @@ p {
 
 body {
     padding: 50px 50px 50px 50px;
-    font-family: 'Cairo', sans-serif;
-    -webkit-animation: colorchange 21s infinite;
+
+   
     animation: colorchange 15s ease-in infinite;
 }
 
@@ -218,7 +218,7 @@ width: 90% para definir a proporção ocupada pelo contêiner na tela.
 
 .roda {
     color: darkturquoise;
-    text-align: center;
+   
 }
 
 @media (max-width: 768px) {
@@ -243,7 +243,7 @@ width: 90% para definir a proporção ocupada pelo contêiner na tela.
     
     }
     .blocos {
-        flex-direction: column;
+        
         align-items: center;
     }
     .outro {
